@@ -1,0 +1,35 @@
+# Python Task 05 – HackerRank Coding Practice
+
+## Task Overview
+
+* Total Questions: 20
+* Platform: HackerRank
+* Language: Python 3
+* Topics: Python Fundamentals, Loops, Strings, Lists, Dictionaries, and Sets
+
+## Problems
+
+1. Find the Runner-Up Score!
+2. String Split and Join
+3. Mutations
+4. Find a String
+5. String Validators
+6. Introduction to Sets
+7. Symmetric Difference
+8. Set .add()
+9. Word Order
+10. Swap Case
+11. Text Wrap
+12. Capitalize!
+13. Nested Lists
+14. Finding the Percentage
+15. Lists
+16. Collections.Counter()
+17. No Idea!
+18. The Minion Game
+19. Merge the Tools!
+20. Piling Up!
+
+## Submission
+
+Solutions are provided in separate Python files, from `problem1.py` to `problem20.py`.
